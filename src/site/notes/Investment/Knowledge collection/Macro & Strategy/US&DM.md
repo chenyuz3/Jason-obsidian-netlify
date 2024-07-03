@@ -1,5 +1,5 @@
 ---
-{"created":"2023-05-29T13:52:53.956+08:00","modified":"2024-04-02 17:21","updated":"2024-07-03T14:34:08.962+08:00","dg-publish":true,"permalink":"/Investment/Knowledge collection/Macro & Strategy/US&DM/","dgPassFrontmatter":true}
+{"created":"2023-05-29T13:52:53.956+08:00","modified":"2024-04-02 17:21","updated":"2024-07-03T14:51:41.462+08:00","dg-publish":true,"permalink":"/Investment/Knowledge collection/Macro & Strategy/US&DM/","dgPassFrontmatter":true}
 ---
 
 # Fed Monitor
